@@ -205,3 +205,29 @@ body {
 .pay-now .btn-plataforms .plataforms li:nth-child(5) {
     border: 1px solid #FCAF17;
 }
+
+
+.pay-now .btn-plataforms .plataforms li:nth-child(1):hover{
+    border: 1px solid #ffffff;
+    background-color: #025dd4;
+}
+
+.pay-now .btn-plataforms .plataforms li:nth-child(2):hover {
+    border: 1px solid #ffffff;
+    background-color: #025dd4;
+}
+
+.pay-now .btn-plataforms .plataforms li:nth-child(3):hover {
+    border: 1px solid #ffffff;
+    background-color: #347423;
+}
+
+.pay-now .btn-plataforms .plataforms li:nth-child(4):hover {
+    border: 1px solid #ffffff;
+    background-color: #347423;
+}
+
+.pay-now .btn-plataforms .plataforms li:nth-child(5):hover {
+    border: 1px solid #ffffff;
+    background-color: #7c570c;
+}
