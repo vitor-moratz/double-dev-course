@@ -1,2 +1,6 @@
 # Dev em Dobro
-Course Overview: We'll explore every fundamental aspect of frontend development, you'll acquire the essential skills needed to build stunning, functional web interfaces. From the basics of HTML and CSS to the intricate nuances of JavaScript and its popular libraries like React, you'll have the opportunity to develop a solid set of skills over time.
+Acabei de concluir com sucesso o evento de Desenvolvimento Front-end do Dev em Dobro! 🌐💻
+Durante esse incrível percurso, mergulhei fundo nos fundamentos do HTML, CSS e JavaScript, adquirindo habilidades essenciais para construir interfaces web dinâmicas e atraentes. 
+Agradeço imensamente ao Dev em Dobro pela experiência enriquecedora!
+
+🌐 E para uma visualização rápida, você pode acessar as implementações onde foram hospedadas no Vercel: https://lnkd.in/dktYiCxu
